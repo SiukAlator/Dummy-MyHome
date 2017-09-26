@@ -1,0 +1,1435 @@
+
+2017-01-25 22:50:36
+
+Operating System
+  Name                        = Microsoft Windows 10 Pro
+  Version                     = 10.0.14393
+  Architecture                = 32bit
+  # CPUs                      = 4
+  Memory                      = 8502009856
+
+Node.js
+  Node.js Version             = 4.6.0
+  npm Version                 = 2.15.9
+
+Titanium CLI
+  CLI Version                 = 5.0.11
+
+Titanium SDK
+  SDK Version                 = 5.2.2.GA
+  SDK Path                    = C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA
+  Target Platform             = android
+
+Command
+  C:\Program Files (x86)\nodejs\node.exe C:\Users\Siuk\AppData\Roaming\npm\node_modules\titanium\bin\titanium build --sdk 5.2.2.GA --skip-js-minify --config-file C:\Users\Siuk\.titanium\config.json --platform android --project-dir C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq --log-level trace --android-sdk D:\android-sdk-win --target device --no-banner
+
+[INFO]   Auto selecting device that closest matches 6.0
+[DEBUG]  Searching for version >= 6.0 and has Google APIs
+[DEBUG]  Searching for version >= 6.0 and may have Google APIs
+[DEBUG]  Searching for version >= 6.0 and no Google APIs
+[DEBUG]  Searching for version < 6.0 and has Google APIs
+[DEBUG]  Searching for version < 6.0 and no Google APIs
+[DEBUG]  Selecting first device
+[INFO]   Auto selected device F3213 6.0
+[DEBUG]  Detecting modules in C:\ProgramData\Application Data\Titanium\modules
+[DEBUG]  Detected android module: bencoding.alarmmanager 0.11 @ C:\ProgramData\Application Data\Titanium\modules\android\bencoding.alarmmanager\0.11
+[DEBUG]  Detected android module: bencoding.android.tools 0.50 @ C:\ProgramData\Application Data\Titanium\modules\android\bencoding.android.tools\0.50
+[DEBUG]  Detected android module: com.boxoutthinkers.ti.firebase 0.1.2 @ C:\ProgramData\Application Data\Titanium\modules\android\com.boxoutthinkers.ti.firebase\0.1.2
+[DEBUG]  Detected android module: com.exygy.showkeyboard 0.1 @ C:\ProgramData\Application Data\Titanium\modules\android\com.exygy.showkeyboard\0.1
+[DEBUG]  Detected android module: com.ubqti.android 1.0.0 @ C:\ProgramData\Application Data\Titanium\modules\android\com.ubqti.android\1.0.0
+[DEBUG]  Detected android module: dk.napp.drawer 1.1.6 @ C:\ProgramData\Application Data\Titanium\modules\android\dk.napp.drawer\1.1.6
+[DEBUG]  Detected android module: facebook 4.0.5 @ C:\ProgramData\Application Data\Titanium\modules\android\facebook\4.0.5
+[DEBUG]  Detected android module: facebook 5.0.0 @ C:\ProgramData\Application Data\Titanium\modules\android\facebook\5.0.0
+[DEBUG]  Detected android module: facebook 5.2.0 @ C:\ProgramData\Application Data\Titanium\modules\android\facebook\5.2.0
+[DEBUG]  Detected android module: facebook 6.0.1 @ C:\ProgramData\Application Data\Titanium\modules\android\facebook\6.0.1
+[DEBUG]  Detected android module: hyperloop 1.2.8 @ C:\ProgramData\Application Data\Titanium\modules\android\hyperloop\1.2.8
+[DEBUG]  Detected android module: net.iamyellow.tiws 1.0.0 @ C:\ProgramData\Application Data\Titanium\modules\android\net.iamyellow.tiws\1.0.0
+[DEBUG]  Detected android module: nl.vanvianen.android.gcm 1.3 @ C:\ProgramData\Application Data\Titanium\modules\android\nl.vanvianen.android.gcm\1.3
+[DEBUG]  Detected android module: nl.vanvianen.android.gcm 1.4 @ C:\ProgramData\Application Data\Titanium\modules\android\nl.vanvianen.android.gcm\1.4
+[DEBUG]  Detected android module: nl.vanvianen.android.gcm 1.6 @ C:\ProgramData\Application Data\Titanium\modules\android\nl.vanvianen.android.gcm\1.6
+[DEBUG]  Detected android module: nl.vanvianen.android.gcm 1.7 @ C:\ProgramData\Application Data\Titanium\modules\android\nl.vanvianen.android.gcm\1.7
+[DEBUG]  Detected android module: nl.vanvianen.android.gcm 2.0 @ C:\ProgramData\Application Data\Titanium\modules\android\nl.vanvianen.android.gcm\2.0
+[DEBUG]  Detected android module: org.iotashan.TiTouchImageView 1.0.2 @ C:\ProgramData\Application Data\Titanium\modules\android\org.iotashan.titouchimageview\1.0.2
+[DEBUG]  Detected android module: ro.mihaiblaga.imei 1.1.0 @ C:\ProgramData\Application Data\Titanium\modules\android\ro.mihaiblaga.imei\1.1.0
+[DEBUG]  Detected android module: ti.cloudpush 3.4.0 @ C:\ProgramData\Application Data\Titanium\modules\android\ti.cloudpush\3.4.0
+[DEBUG]  Detected android module: ti.cloudpush 3.4.1 @ C:\ProgramData\Application Data\Titanium\modules\android\ti.cloudpush\3.4.1
+[DEBUG]  Detected android module: ti.cloudpush 4.0.3 @ C:\ProgramData\Application Data\Titanium\modules\android\ti.cloudpush\4.0.3
+[DEBUG]  Detected android module: ti.compression 2.0.3 @ C:\ProgramData\Application Data\Titanium\modules\android\ti.compression\2.0.3
+[DEBUG]  Detected android module: ti.compression 2.0.4 @ C:\ProgramData\Application Data\Titanium\modules\android\ti.compression\2.0.4
+[DEBUG]  Detected android module: ti.ga 2.2.0 @ C:\ProgramData\Application Data\Titanium\modules\android\ti.ga\2.2.0
+[DEBUG]  Detected android module: ti.goosh 1.6.2 @ C:\ProgramData\Application Data\Titanium\modules\android\ti.goosh\1.6.2
+[DEBUG]  Detected android module: ti.imagefactory 2.2.1 @ C:\ProgramData\Application Data\Titanium\modules\android\ti.imagefactory\2.2.1
+[DEBUG]  Detected android module: ti.imagefactory 2.2.2 @ C:\ProgramData\Application Data\Titanium\modules\android\ti.imagefactory\2.2.2
+[DEBUG]  Detected android module: ti.map 2.3.10 @ C:\ProgramData\Application Data\Titanium\modules\android\ti.map\2.3.10
+[DEBUG]  Detected android module: ti.map 2.3.4 @ C:\ProgramData\Application Data\Titanium\modules\android\ti.map\2.3.4
+[DEBUG]  Detected android module: ti.map 2.3.6 @ C:\ProgramData\Application Data\Titanium\modules\android\ti.map\2.3.6
+[DEBUG]  Detected android module: ti.map 3.0.0 @ C:\ProgramData\Application Data\Titanium\modules\android\ti.map\3.0.0
+[DEBUG]  Detected android module: ti.map 3.0.1 @ C:\ProgramData\Application Data\Titanium\modules\android\ti.map\3.0.1
+[DEBUG]  Detected android module: ti.paint 2.0.3 @ C:\ProgramData\Application Data\Titanium\modules\android\ti.paint\2.0.3
+[DEBUG]  Detected android module: ti.sq 0.2 @ C:\ProgramData\Application Data\Titanium\modules\android\ti.sq\0.2
+[DEBUG]  Detected android module: ti.touchid 1.0.0 @ C:\ProgramData\Application Data\Titanium\modules\android\ti.touchid\1.0.0
+[DEBUG]  Detected android module: ti.touchid 2.0.1 @ C:\ProgramData\Application Data\Titanium\modules\android\ti.touchid\2.0.1
+[DEBUG]  Detected android module: yy.hasmenu 0.1 @ C:\ProgramData\Application Data\Titanium\modules\android\yy.hasmenu\0.1
+[DEBUG]  Detected commonjs module: ti.cloud 3.2.10 @ C:\ProgramData\Application Data\Titanium\modules\commonjs\ti.cloud\3.2.10
+[DEBUG]  Detected commonjs module: ti.cloud 3.2.11 @ C:\ProgramData\Application Data\Titanium\modules\commonjs\ti.cloud\3.2.11
+[DEBUG]  Detecting modules in C:\ProgramData\Titanium\modules
+[DEBUG]  Detected android module: bencoding.alarmmanager 0.11 @ C:\ProgramData\Titanium\modules\android\bencoding.alarmmanager\0.11
+[DEBUG]  Detected android module: bencoding.android.tools 0.50 @ C:\ProgramData\Titanium\modules\android\bencoding.android.tools\0.50
+[DEBUG]  Detected android module: com.boxoutthinkers.ti.firebase 0.1.2 @ C:\ProgramData\Titanium\modules\android\com.boxoutthinkers.ti.firebase\0.1.2
+[DEBUG]  Detected android module: com.exygy.showkeyboard 0.1 @ C:\ProgramData\Titanium\modules\android\com.exygy.showkeyboard\0.1
+[DEBUG]  Detected android module: com.ubqti.android 1.0.0 @ C:\ProgramData\Titanium\modules\android\com.ubqti.android\1.0.0
+[DEBUG]  Detected android module: dk.napp.drawer 1.1.6 @ C:\ProgramData\Titanium\modules\android\dk.napp.drawer\1.1.6
+[DEBUG]  Detected android module: facebook 4.0.5 @ C:\ProgramData\Titanium\modules\android\facebook\4.0.5
+[DEBUG]  Detected android module: facebook 5.0.0 @ C:\ProgramData\Titanium\modules\android\facebook\5.0.0
+[DEBUG]  Detected android module: facebook 5.2.0 @ C:\ProgramData\Titanium\modules\android\facebook\5.2.0
+[DEBUG]  Detected android module: facebook 6.0.1 @ C:\ProgramData\Titanium\modules\android\facebook\6.0.1
+[DEBUG]  Detected android module: hyperloop 1.2.8 @ C:\ProgramData\Titanium\modules\android\hyperloop\1.2.8
+[DEBUG]  Detected android module: net.iamyellow.tiws 1.0.0 @ C:\ProgramData\Titanium\modules\android\net.iamyellow.tiws\1.0.0
+[DEBUG]  Detected android module: nl.vanvianen.android.gcm 1.3 @ C:\ProgramData\Titanium\modules\android\nl.vanvianen.android.gcm\1.3
+[DEBUG]  Detected android module: nl.vanvianen.android.gcm 1.4 @ C:\ProgramData\Titanium\modules\android\nl.vanvianen.android.gcm\1.4
+[DEBUG]  Detected android module: nl.vanvianen.android.gcm 1.6 @ C:\ProgramData\Titanium\modules\android\nl.vanvianen.android.gcm\1.6
+[DEBUG]  Detected android module: nl.vanvianen.android.gcm 1.7 @ C:\ProgramData\Titanium\modules\android\nl.vanvianen.android.gcm\1.7
+[DEBUG]  Detected android module: nl.vanvianen.android.gcm 2.0 @ C:\ProgramData\Titanium\modules\android\nl.vanvianen.android.gcm\2.0
+[DEBUG]  Detected android module: org.iotashan.TiTouchImageView 1.0.2 @ C:\ProgramData\Titanium\modules\android\org.iotashan.titouchimageview\1.0.2
+[DEBUG]  Detected android module: ro.mihaiblaga.imei 1.1.0 @ C:\ProgramData\Titanium\modules\android\ro.mihaiblaga.imei\1.1.0
+[DEBUG]  Detected android module: ti.cloudpush 3.4.0 @ C:\ProgramData\Titanium\modules\android\ti.cloudpush\3.4.0
+[DEBUG]  Detected android module: ti.cloudpush 3.4.1 @ C:\ProgramData\Titanium\modules\android\ti.cloudpush\3.4.1
+[DEBUG]  Detected android module: ti.cloudpush 4.0.3 @ C:\ProgramData\Titanium\modules\android\ti.cloudpush\4.0.3
+[DEBUG]  Detected android module: ti.compression 2.0.3 @ C:\ProgramData\Titanium\modules\android\ti.compression\2.0.3
+[DEBUG]  Detected android module: ti.compression 2.0.4 @ C:\ProgramData\Titanium\modules\android\ti.compression\2.0.4
+[DEBUG]  Detected android module: ti.ga 2.2.0 @ C:\ProgramData\Titanium\modules\android\ti.ga\2.2.0
+[DEBUG]  Detected android module: ti.goosh 1.6.2 @ C:\ProgramData\Titanium\modules\android\ti.goosh\1.6.2
+[DEBUG]  Detected android module: ti.imagefactory 2.2.1 @ C:\ProgramData\Titanium\modules\android\ti.imagefactory\2.2.1
+[DEBUG]  Detected android module: ti.imagefactory 2.2.2 @ C:\ProgramData\Titanium\modules\android\ti.imagefactory\2.2.2
+[DEBUG]  Detected android module: ti.map 2.3.10 @ C:\ProgramData\Titanium\modules\android\ti.map\2.3.10
+[DEBUG]  Detected android module: ti.map 2.3.4 @ C:\ProgramData\Titanium\modules\android\ti.map\2.3.4
+[DEBUG]  Detected android module: ti.map 2.3.6 @ C:\ProgramData\Titanium\modules\android\ti.map\2.3.6
+[DEBUG]  Detected android module: ti.map 3.0.0 @ C:\ProgramData\Titanium\modules\android\ti.map\3.0.0
+[DEBUG]  Detected android module: ti.map 3.0.1 @ C:\ProgramData\Titanium\modules\android\ti.map\3.0.1
+[DEBUG]  Detected android module: ti.paint 2.0.3 @ C:\ProgramData\Titanium\modules\android\ti.paint\2.0.3
+[DEBUG]  Detected android module: ti.sq 0.2 @ C:\ProgramData\Titanium\modules\android\ti.sq\0.2
+[DEBUG]  Detected android module: ti.touchid 1.0.0 @ C:\ProgramData\Titanium\modules\android\ti.touchid\1.0.0
+[DEBUG]  Detected android module: ti.touchid 2.0.1 @ C:\ProgramData\Titanium\modules\android\ti.touchid\2.0.1
+[DEBUG]  Detected android module: yy.hasmenu 0.1 @ C:\ProgramData\Titanium\modules\android\yy.hasmenu\0.1
+[DEBUG]  Detected commonjs module: ti.cloud 3.2.10 @ C:\ProgramData\Titanium\modules\commonjs\ti.cloud\3.2.10
+[DEBUG]  Detected commonjs module: ti.cloud 3.2.11 @ C:\ProgramData\Titanium\modules\commonjs\ti.cloud\3.2.11
+[DEBUG]  Looking for Titanium module id=dk.napp.drawer version=1.1.6 platform=android deploy-type=test
+[INFO]   Found Titanium module id=dk.napp.drawer version=1.1.6 platform=android deploy-type=test path=C:\ProgramData\Application Data\Titanium\modules\android\dk.napp.drawer\1.1.6
+[DEBUG]  Looking for Titanium module id=ti.ga version=2.2.0 platform=android deploy-type=test
+[INFO]   Found Titanium module id=ti.ga version=2.2.0 platform=android deploy-type=test path=C:\ProgramData\Application Data\Titanium\modules\android\ti.ga\2.2.0
+[DEBUG]  Looking for Titanium module id=net.iamyellow.tiws version=1.0.0 platform=android deploy-type=test
+[INFO]   Found Titanium module id=net.iamyellow.tiws version=1.0.0 platform=android deploy-type=test path=C:\ProgramData\Application Data\Titanium\modules\android\net.iamyellow.tiws\1.0.0
+[DEBUG]  Looking for Titanium module id=ti.goosh version=1.6.2 platform=android deploy-type=test
+[INFO]   Found Titanium module id=ti.goosh version=1.6.2 platform=android deploy-type=test path=C:\ProgramData\Application Data\Titanium\modules\android\ti.goosh\1.6.2
+[DEBUG]  No project level plugins to load
+[TRACE]  Snapshotting build directory
+[DEBUG]  Titanium SDK Android directory: C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android
+[INFO]   Deploy type: test
+[INFO]   Building for target: device
+[INFO]   Building for device: WUJ01MPMC4
+[INFO]   Targeting Android SDK API: 23
+[INFO]   Building for the following architectures: armeabi, armeabi-v7a, x86
+[INFO]   Signing with keystore: C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\dev_keystore (tidev)
+[DEBUG]  App ID: com.ubqti.dummyleq
+[DEBUG]  Classname: UbqtiDummyleq
+[INFO]   Debugging disabled
+[INFO]   Profiler disabled
+[INFO]   Forcing rebuild: JavaScript files need to be re-encrypted
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources
+[DEBUG]  Ignoring C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\._.DS_Store
+[DEBUG]  Ignoring C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android
+[DEBUG]  Ignoring C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\._Default-568h@2x.png
+[DEBUG]  Ignoring C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\._Default-Landscape.png
+[DEBUG]  Ignoring C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\._Default-Portrait.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\Default-568h@2x.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\Default-568h@2x.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\Default-568h@2x.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\Default-667h@2x.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\Default-667h@2x.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\Default-667h@2x.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\Default-Landscape-736h@3x.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\Default-Landscape-736h@3x.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\Default-Landscape-736h@3x.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\Default-Landscape.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\Default-Landscape.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\Default-Landscape.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\Default-Landscape@2x.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\Default-Landscape@2x.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\Default-Landscape@2x.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\Default-Portrait-736h@3x.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\Default-Portrait-736h@3x.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\Default-Portrait-736h@3x.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\Default-Portrait.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\Default-Portrait.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\Default-Portrait.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\Default-Portrait@2x.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\Default-Portrait@2x.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\Default-Portrait@2x.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\Default.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\Default.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\Default.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\Default@2x.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\Default@2x.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\Default@2x.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\assets\iphone.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\assets\iphone.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\assets\iphone.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\dot.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\dot.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\dot.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\funnel_left.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\funnel_left.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\funnel_left.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\funnel_right.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\funnel_right.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\funnel_right.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\google.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\google.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\google.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\google_login.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\google_login.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\google_login.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\hourglass.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\hourglass.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\hourglass.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ico_notebook_p.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ico_notebook_p.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ico_notebook_p.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ico_tv_p.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ico_tv_p.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ico_tv_p.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_add.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_add.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_add.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_add_circle_outline.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_add_circle_outline.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_add_circle_outline.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_add_circle_outline_b.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_add_circle_outline_b.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_add_circle_outline_b.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_add_circle_outline_g.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_add_circle_outline_g.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_add_circle_outline_g.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_add_circle_outline_o.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_add_circle_outline_o.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_add_circle_outline_o.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_add_circle_outline_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_add_circle_outline_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_add_circle_outline_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_add_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_add_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_add_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_arrow_back.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_arrow_back.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_arrow_back.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_arrow_back_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_arrow_back_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_arrow_back_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_arrow_left.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_arrow_left.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_arrow_left.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_arrow_right.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_arrow_right.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_arrow_right.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_assignment_ind.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_assignment_ind.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_assignment_ind.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_assignment_ind_b.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_assignment_ind_b.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_assignment_ind_b.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_assignment_ind_o.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_assignment_ind_o.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_assignment_ind_o.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_assignment_ind_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_assignment_ind_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_assignment_ind_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_block.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_block.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_block.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_block_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_block_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_block_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_call.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_call.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_call.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_call_b.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_call_b.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_call_b.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_call_g.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_call_g.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_call_g.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_call_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_call_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_call_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_chat.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_chat.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_chat.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_chat_b.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_chat_b.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_chat_b.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_chat_g.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_chat_g.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_chat_g.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_chat_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_chat_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_chat_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_check.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_check.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_check.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_check_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_check_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_check_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_close.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_close.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_close.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_close_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_close_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_close_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_correct.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_correct.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_correct.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_correct_b.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_correct_b.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_correct_b.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_correct_g.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_correct_g.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_correct_g.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_correct_o.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_correct_o.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_correct_o.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_correct_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_correct_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_correct_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_cross_r.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_cross_r.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_cross_r.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_delete.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_delete.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_delete.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_delete_r.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_delete_r.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_delete_r.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_delete_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_delete_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_delete_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_eject.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_eject.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_eject.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_eject_r.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_eject_r.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_eject_r.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_eject_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_eject_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_eject_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_expand_less.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_expand_less.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_expand_less.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_expand_less_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_expand_less_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_expand_less_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_expand_more.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_expand_more.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_expand_more.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_expand_more_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_expand_more_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_expand_more_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_flag.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_flag.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_flag.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_flag_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_flag_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_flag_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_forum.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_forum.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_forum.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_forum_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_forum_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_forum_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_group.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_group.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_group.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_group_add_b.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_group_add_b.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_group_add_b.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_group_add_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_group_add_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_group_add_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_group_o.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_group_o.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_group_o.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_group_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_group_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_group_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_home.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_home.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_home.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_home_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_home_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_home_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_insert_drive_file.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_insert_drive_file.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_insert_drive_file.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_insert_drive_file_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_insert_drive_file_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_insert_drive_file_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_keyboard.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_keyboard.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_keyboard.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_keyboard_hide.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_keyboard_hide.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_keyboard_hide.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_keyboard_hide_b.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_keyboard_hide_b.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_keyboard_hide_b.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_keyboard_hide_o.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_keyboard_hide_o.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_keyboard_hide_o.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_keyboard_return.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_keyboard_return.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_keyboard_return.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_keyboard_return_g.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_keyboard_return_g.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_keyboard_return_g.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_keyboard_return_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_keyboard_return_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_keyboard_return_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_menu.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_menu.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_menu.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_menu_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_menu_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_menu_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_mode_edit.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_mode_edit.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_mode_edit.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_mode_edit_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_mode_edit_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_mode_edit_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_more_vert.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_more_vert.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_more_vert.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_more_vert_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_more_vert_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_more_vert_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_navigate_before.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_navigate_before.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_navigate_before.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_navigate_before_b.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_navigate_before_b.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_navigate_before_b.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_navigate_before_o.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_navigate_before_o.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_navigate_before_o.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_navigate_before_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_navigate_before_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_navigate_before_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_navigate_next.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_navigate_next.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_navigate_next.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_navigate_next_b.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_navigate_next_b.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_navigate_next_b.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_navigate_next_o.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_navigate_next_o.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_navigate_next_o.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_navigate_next_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_navigate_next_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_navigate_next_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_person.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_person.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_person.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_person_add.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_person_add.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_person_add.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_person_add_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_person_add_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_person_add_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_person_o.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_person_o.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_person_o.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_person_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_person_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_person_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_phone_iphone.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_phone_iphone.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_phone_iphone.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_place.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_place.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_place.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_place_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_place_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_place_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_school.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_school.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_school.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_school_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_school_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_school_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_send.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_send.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_send.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_send_b.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_send_b.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_send_b.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_send_g.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_send_g.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_send_g.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_send_o.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_send_o.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_send_o.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_settings.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_settings.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_settings.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_settings_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_settings_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_settings_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_sync.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_sync.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_sync.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_sync_g.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_sync_g.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_sync_g.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_sync_problem.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_sync_problem.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_sync_problem.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_sync_problem_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_sync_problem_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_sync_problem_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_sync_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_sync_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_sync_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_vpn_key.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_vpn_key.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_vpn_key.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_vpn_key_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_vpn_key_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_vpn_key_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_warning.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_warning.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_warning.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_warning_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_warning_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_warning_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_whatshot.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_whatshot.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_whatshot.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_whatshot_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_whatshot_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_whatshot_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_work.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_work.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_work.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_work_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ic_work_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ic_work_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\logo_login.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\logo_login.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\logo_login.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ubqti.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\iphone\images\ubqti.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\iphone\images\ubqti.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\KS_nav_ui.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\KS_nav_ui.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\KS_nav_ui.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\KS_nav_views.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\KS_nav_views.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\KS_nav_views.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\sounds\alert1.mp3
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\sounds\alert1.mp3 => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\sounds\alert1.mp3
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\sounds\alert2.mp3
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\sounds\alert2.mp3 => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\sounds\alert2.mp3
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android
+[DEBUG]  Ignoring C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\._.DS_Store
+[DEBUG]  Ignoring C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\._appicon.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\appicon.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\appicon.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\appicon.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\default.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\res\drawable\background.png
+[DEBUG]  Ignoring C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\._.DS_Store
+[DEBUG]  Ignoring C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\._google.png
+[DEBUG]  Ignoring C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\._logo_login.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\dot.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\dot.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\dot.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\funnel_left.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\funnel_left.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\funnel_left.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\funnel_right.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\funnel_right.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\funnel_right.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\google.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\google.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\google.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\google_login.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\google_login.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\google_login.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\hourglass.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\hourglass.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\hourglass.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ico_notebook_p.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ico_notebook_p.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ico_notebook_p.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ico_tv_p.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ico_tv_p.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ico_tv_p.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_add.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_add.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_add.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_add_circle_outline.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_add_circle_outline.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_add_circle_outline.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_add_circle_outline_b.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_add_circle_outline_b.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_add_circle_outline_b.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_add_circle_outline_g.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_add_circle_outline_g.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_add_circle_outline_g.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_add_circle_outline_o.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_add_circle_outline_o.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_add_circle_outline_o.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_add_circle_outline_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_add_circle_outline_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_add_circle_outline_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_add_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_add_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_add_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_arrow_back.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_arrow_back.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_arrow_back.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_arrow_back_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_arrow_back_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_arrow_back_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_arrow_left.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_arrow_left.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_arrow_left.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_arrow_right.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_arrow_right.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_arrow_right.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_assignment_ind.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_assignment_ind.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_assignment_ind.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_assignment_ind_b.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_assignment_ind_b.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_assignment_ind_b.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_assignment_ind_o.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_assignment_ind_o.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_assignment_ind_o.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_assignment_ind_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_assignment_ind_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_assignment_ind_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_block.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_block.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_block.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_block_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_block_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_block_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_call.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_call.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_call.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_call_b.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_call_b.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_call_b.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_call_g.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_call_g.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_call_g.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_call_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_call_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_call_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_chat.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_chat.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_chat.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_chat_b.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_chat_b.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_chat_b.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_chat_g.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_chat_g.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_chat_g.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_chat_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_chat_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_chat_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_check.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_check.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_check.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_check_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_check_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_check_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_close.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_close.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_close.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_close_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_close_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_close_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_correct.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_correct.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_correct.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_correct_b.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_correct_b.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_correct_b.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_correct_g.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_correct_g.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_correct_g.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_correct_o.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_correct_o.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_correct_o.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_correct_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_correct_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_correct_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_cross_r.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_cross_r.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_cross_r.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_delete.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_delete.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_delete.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_delete_r.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_delete_r.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_delete_r.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_delete_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_delete_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_delete_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_eject.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_eject.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_eject.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_eject_r.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_eject_r.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_eject_r.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_eject_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_eject_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_eject_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_expand_less.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_expand_less.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_expand_less.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_expand_less_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_expand_less_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_expand_less_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_expand_more.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_expand_more.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_expand_more.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_expand_more_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_expand_more_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_expand_more_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_flag.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_flag.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_flag.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_flag_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_flag_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_flag_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_forum.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_forum.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_forum.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_forum_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_forum_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_forum_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_group.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_group.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_group.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_group_add_b.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_group_add_b.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_group_add_b.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_group_add_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_group_add_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_group_add_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_group_o.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_group_o.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_group_o.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_group_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_group_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_group_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_home.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_home.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_home.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_home_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_home_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_home_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_insert_drive_file.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_insert_drive_file.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_insert_drive_file.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_insert_drive_file_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_insert_drive_file_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_insert_drive_file_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_keyboard.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_keyboard.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_keyboard.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_keyboard_hide.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_keyboard_hide.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_keyboard_hide.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_keyboard_hide_b.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_keyboard_hide_b.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_keyboard_hide_b.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_keyboard_hide_o.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_keyboard_hide_o.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_keyboard_hide_o.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_keyboard_return.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_keyboard_return.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_keyboard_return.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_keyboard_return_g.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_keyboard_return_g.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_keyboard_return_g.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_keyboard_return_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_keyboard_return_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_keyboard_return_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_menu.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_menu.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_menu.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_menu_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_menu_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_menu_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_mode_edit.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_mode_edit.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_mode_edit.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_mode_edit_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_mode_edit_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_mode_edit_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_more_vert.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_more_vert.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_more_vert.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_more_vert_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_more_vert_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_more_vert_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_navigate_before.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_navigate_before.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_navigate_before.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_navigate_before_b.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_navigate_before_b.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_navigate_before_b.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_navigate_before_o.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_navigate_before_o.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_navigate_before_o.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_navigate_before_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_navigate_before_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_navigate_before_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_navigate_next.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_navigate_next.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_navigate_next.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_navigate_next_b.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_navigate_next_b.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_navigate_next_b.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_navigate_next_o.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_navigate_next_o.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_navigate_next_o.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_navigate_next_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_navigate_next_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_navigate_next_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_person.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_person.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_person.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_person_add.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_person_add.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_person_add.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_person_add_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_person_add_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_person_add_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_person_o.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_person_o.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_person_o.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_person_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_person_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_person_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_phone_iphone.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_phone_iphone.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_phone_iphone.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_place.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_place.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_place.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_place_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_place_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_place_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_school.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_school.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_school.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_school_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_school_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_school_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_send.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_send.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_send.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_send_b.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_send_b.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_send_b.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_send_g.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_send_g.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_send_g.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_send_o.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_send_o.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_send_o.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_settings.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_settings.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_settings.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_settings_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_settings_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_settings_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_sync.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_sync.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_sync.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_sync_g.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_sync_g.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_sync_g.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_sync_problem.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_sync_problem.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_sync_problem.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_sync_problem_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_sync_problem_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_sync_problem_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_sync_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_sync_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_sync_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_vpn_key.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_vpn_key.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_vpn_key.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_vpn_key_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_vpn_key_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_vpn_key_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_warning.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_warning.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_warning.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_warning_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_warning_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_warning_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_whatshot.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_whatshot.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_whatshot.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_whatshot_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_whatshot_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_whatshot_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_work.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_work.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_work.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_work_w.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ic_work_w.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ic_work_w.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\logo_login.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\logo_login.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\logo_login.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\res-long-land-hdpi\default.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\res\drawable-long-land-hdpi\background.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\res-long-land-ldpi\default.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\res\drawable-long-land-ldpi\background.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\res-long-port-hdpi\default.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\res\drawable-long-port-hdpi\background.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\res-long-port-ldpi\default.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\res\drawable-long-port-ldpi\background.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\res-notlong-land-hdpi\default.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\res\drawable-notlong-land-hdpi\background.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\res-notlong-land-ldpi\default.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\res\drawable-notlong-land-ldpi\background.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\res-notlong-land-mdpi\default.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\res\drawable-notlong-land-mdpi\background.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\res-notlong-port-hdpi\default.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\res\drawable-notlong-port-hdpi\background.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\res-notlong-port-ldpi\default.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\res\drawable-notlong-port-ldpi\background.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\res-notlong-port-mdpi\default.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\res\drawable-notlong-port-mdpi\background.png
+[WARN]   Overwriting file C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ubqti.png
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\android\images\ubqti.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\images\ubqti.png
+[DEBUG]  Copying C:\ProgramData\Application Data\Titanium\modules\android\dk.napp.drawer\1.1.6\platform\android\res\values\attrs.xml => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\res\values\attrs.xml
+[DEBUG]  Copying C:\ProgramData\Application Data\Titanium\modules\android\dk.napp.drawer\1.1.6\platform\android\res\values\ids.xml => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\res\values\ids.xml
+[DEBUG]  Copying C:\ProgramData\Application Data\Titanium\modules\android\ti.goosh\1.6.2\platform\android\res\values\drawable\notificationicon.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\res\values\drawable\notificationicon.png
+[DEBUG]  Copying C:\ProgramData\Application Data\Titanium\modules\android\ti.goosh\1.6.2\platform\android\res\values\version.xml => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\res\values\version.xml
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\platform\android\res\values\themes.xml => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\res\values\themes.xml
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\Resources\appicon.png => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\res\drawable\appicon.png
+[INFO]   Processing JavaScript files
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\app.js => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\assets\app.js
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\libs\circularProgressBar.js => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\assets\libs\circularProgressBar.js
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\libs\Config.js => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\assets\libs\Config.js
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\libs\googleAuth.js => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\assets\libs\googleAuth.js
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\libs\moment.js => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\assets\libs\moment.js
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\libs\Permissions.js => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\assets\libs\Permissions.js
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\libs\Ripple.js => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\assets\libs\Ripple.js
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\mods\async.js => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\assets\mods\async.js
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\mods\db.js => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\assets\mods\db.js
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\mods\push.js => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\assets\mods\push.js
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\mods\xhr.js => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\assets\mods\xhr.js
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\ui\Calendar.js => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\assets\ui\Calendar.js
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\ui\Contacts.js => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\assets\ui\Contacts.js
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\ui\Detalle.js => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\assets\ui\Detalle.js
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\ui\Home.js => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\assets\ui\Home.js
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\ui\Login.js => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\assets\ui\Login.js
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\ui\Menu.js => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\assets\ui\Menu.js
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\ui\Opportunities.js => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\assets\ui\Opportunities.js
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\ui\Options.js => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\assets\ui\Options.js
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\ui\Projects.js => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\assets\ui\Projects.js
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\ui\ProjectView.js => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\assets\ui\ProjectView.js
+[DEBUG]  Copying C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\Resources\ui\SideMenu.js => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\assets\ui\SideMenu.js
+[INFO]   Encrypting JavaScript files: C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\titanium_prep.win32.exe "com.ubqti.dummyleq" "C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\assets" "app.js" "libs/circularProgressBar.js" "libs/Config.js" "libs/googleAuth.js" "libs/moment.js" "libs/Permissions.js" "libs/Ripple.js" "mods/async.js" "mods/db.js" "mods/push.js" "mods/xhr.js" "ui/Calendar.js" "ui/Contacts.js" "ui/Detalle.js" "ui/Home.js" "ui/Login.js" "ui/Menu.js" "ui/Opportunities.js" "ui/Options.js" "ui/Projects.js" "ui/ProjectView.js" "ui/SideMenu.js" "_app_props_.json"
+[DEBUG]  Adding library C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\kroll-v8.jar
+[DEBUG]  Adding library C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-analytics.jar
+[DEBUG]  Adding dependency library C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\aps-analytics.jar
+[DEBUG]  Adding library C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-android.jar
+[DEBUG]  Adding dependency library C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\jaxen-1.1.1.jar
+[DEBUG]  Adding dependency library C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\ti-commons-codec-1.3.jar
+[DEBUG]  Adding dependency library C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\kroll-common.jar
+[DEBUG]  Adding dependency library C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\titanium.jar
+[DEBUG]  Adding library C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-app.jar
+[DEBUG]  Adding library C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-ui.jar
+[DEBUG]  Adding dependency library C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\nineoldandroids-appc-2.4.0.jar
+[DEBUG]  Adding library C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-filesystem.jar
+[DEBUG]  Adding library C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-media.jar
+[DEBUG]  Adding library C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-appcompat.jar
+[DEBUG]  Adding dependency library C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\android-support-v4.jar
+[DEBUG]  Adding dependency library C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\android-support-v7-appcompat.jar
+[DEBUG]  Adding library C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-cardview.jar
+[DEBUG]  Adding dependency library C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\cardview-v7-23.0.1.jar
+[DEBUG]  Adding library C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-locale.jar
+[DEBUG]  Adding library C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-network.jar
+[DEBUG]  Adding library C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-xml.jar
+[DEBUG]  Unknown namespace api, skipping
+[DEBUG]  Adding library C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-geolocation.jar
+[DEBUG]  Adding library C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-platform.jar
+[DEBUG]  Unknown namespace platform.displaycaps, skipping
+[DEBUG]  Unknown namespace app.ios, skipping
+[DEBUG]  Unknown namespace android.currentactivity, skipping
+[DEBUG]  Adding library C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-calendar.jar
+[DEBUG]  Adding library C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-database.jar
+[DEBUG]  Unknown namespace platform.version, skipping
+[DEBUG]  Unknown namespace ui.ios, skipping
+[DEBUG]  Unknown namespace ui.iphone.tableviewcellselectionstyle, skipping
+[DEBUG]  Unknown namespace ui.iphone, skipping
+[DEBUG]  Unknown namespace ui.iphone.tableviewseparatorstyle, skipping
+[INFO]   Writing C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets\app.json
+[INFO]   Extracting module resources: C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-analytics.res.zip
+[DEBUG]  Copying C:\Users\Siuk\AppData\Local\Temp\117025-7172-1vwpdi5\res\values\strings.xml => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\res\values\strings.xml
+[INFO]   Extracting module resources: C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-android.res.zip
+[DEBUG]  Merging C:\Users\Siuk\AppData\Local\Temp\117025-7172-12tgwoi\res\values\strings.xml => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\res\values\strings.xml
+[INFO]   Extracting module resources: C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-app.res.zip
+[DEBUG]  Merging C:\Users\Siuk\AppData\Local\Temp\117025-7172-12gcxh9\res\values\strings.xml => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\res\values\strings.xml
+[INFO]   Extracting module resources: C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-filesystem.res.zip
+[DEBUG]  Merging C:\Users\Siuk\AppData\Local\Temp\117025-7172-1yav41p\res\values\strings.xml => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\res\values\strings.xml
+[INFO]   Extracting module resources: C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-media.res.zip
+[DEBUG]  Merging C:\Users\Siuk\AppData\Local\Temp\117025-7172-1yqlt5v\res\values\strings.xml => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\res\values\strings.xml
+[INFO]   Extracting module resources: C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-locale.res.zip
+[DEBUG]  Merging C:\Users\Siuk\AppData\Local\Temp\117025-7172-1ye0nle\res\values\strings.xml => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\res\values\strings.xml
+[INFO]   Extracting module resources: C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-network.res.zip
+[DEBUG]  Merging C:\Users\Siuk\AppData\Local\Temp\117025-7172-ssg5gl\res\values\strings.xml => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\res\values\strings.xml
+[INFO]   Extracting module resources: C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-xml.res.zip
+[DEBUG]  Merging C:\Users\Siuk\AppData\Local\Temp\117025-7172-cnb5cx\res\values\strings.xml => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\res\values\strings.xml
+[INFO]   Extracting module resources: C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-geolocation.res.zip
+[DEBUG]  Merging C:\Users\Siuk\AppData\Local\Temp\117025-7172-v8g6eq\res\values\strings.xml => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\res\values\strings.xml
+[INFO]   Extracting module resources: C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-platform.res.zip
+[DEBUG]  Merging C:\Users\Siuk\AppData\Local\Temp\117025-7172-o7rmtd\res\values\strings.xml => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\res\values\strings.xml
+[INFO]   Extracting module resources: C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-calendar.res.zip
+[DEBUG]  Merging C:\Users\Siuk\AppData\Local\Temp\117025-7172-1i4adrf\res\values\strings.xml => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\res\values\strings.xml
+[INFO]   Extracting module resources: C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-database.res.zip
+[DEBUG]  Merging C:\Users\Siuk\AppData\Local\Temp\117025-7172-d34jem\res\values\strings.xml => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\res\values\strings.xml
+[DEBUG]  Removing old file: C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\.classpath
+[DEBUG]  Removing old file: C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\.gitignore
+[DEBUG]  Removing old file: C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\.project
+[DEBUG]  Removing old file: C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\AndroidManifest.xml
+[DEBUG]  Removing old file: C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\default.properties
+[DEBUG]  Removing old file: C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\java-sources.txt
+[DEBUG]  Copying template C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\templates\build\AppInfo.java => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\gen\com\ubqti\dummyleq\UbqtiDummyleqAppInfo.java
+[DEBUG]  Copying template C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\templates\build\App.java => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\gen\com\ubqti\dummyleq\UbqtiDummyleqApplication.java
+[DEBUG]  Copying template C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\templates\build\Activity.java => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\gen\com\ubqti\dummyleq\UbqtiDummyleqActivity.java
+[DEBUG]  Copying template C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\templates\build\project => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\.project
+[DEBUG]  Copying template C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\templates\build\default.properties => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\default.properties
+[DEBUG]  Copying C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\templates\build\gitignore => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\.gitignore
+[DEBUG]  Copying C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\templates\build\classpath => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\.classpath
+[INFO]   No aidl files to compile, continuing
+[INFO]   Generating i18n files
+[DEBUG]  Merging en strings => C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\res\values\strings.xml
+[INFO]   Generating C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\res\values\theme.xml
+[INFO]   Packaging application: D:\android-sdk-win\build-tools\23.0.1\aapt.exe "package" "-f" "-m" "-J" "C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\gen" "-M" "C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\AndroidManifest.xml" "-A" "C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\assets" "-S" "C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\res" "-I" "D:\android-sdk-win\platforms\android-23\android.jar" "-F" "C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\app.ap_" "--auto-add-overlay" "--extra-packages" "ti.modules.titanium.ui:android.support.v7.appcompat:android.support.v7.cardview" "-S" "C:\Users\Siuk\AppData\Local\Temp\117025-7172-1w6bec2/res" "-S" "C:\Users\Siuk\AppData\Local\Temp\117025-7172-8j49m3/res" "-S" "C:\Users\Siuk\AppData\Local\Temp\117025-7172-1duoers/res"
+[INFO]   Building Java source files: C:\Program Files (x86)\Java\jdk1.7.0_80\bin\javac.exe "-J-Xmx1024M" "-encoding" "utf8" "-bootclasspath" "D:\android-sdk-win\platforms\android-23\android.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\kroll-v8.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-analytics.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\aps-analytics.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-android.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\jaxen-1.1.1.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\ti-commons-codec-1.3.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\kroll-common.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\titanium.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-app.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-ui.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\nineoldandroids-appc-2.4.0.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-filesystem.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-media.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-appcompat.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\android-support-v4.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\android-support-v7-appcompat.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-cardview.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\cardview-v7-23.0.1.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-locale.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-network.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-xml.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-geolocation.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-platform.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-calendar.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-database.jar;C:\ProgramData\Application Data\Titanium\modules\android\dk.napp.drawer\1.1.6\nappslide.jar;C:\ProgramData\Application Data\Titanium\modules\android\ti.ga\2.2.0\tiga.jar;C:\ProgramData\Application Data\Titanium\modules\android\net.iamyellow.tiws\1.0.0\tiws.jar;C:\ProgramData\Application Data\Titanium\modules\android\ti.goosh\1.6.2\ti.goosh.jar;C:\ProgramData\Application Data\Titanium\modules\android\ti.goosh\1.6.2\lib\google-play-services-gcm+analytics+maps.jar;C:\ProgramData\Application Data\Titanium\modules\android\ti.goosh\1.6.2\lib\gson.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\kroll-apt.jar;C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\lib\titanium-verify.jar;Manifest.class;R.class;AssetCryptImpl.class;UbqtiDummyleqActivity.class;UbqtiDummyleqAppInfo.class;UbqtiDummyleqApplication.class" "-d" "C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\classes" "-proc:none" "-target" "1.6" "-source" "1.6" "@C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\java-sources.txt"
+[INFO]   Running dexer: C:\Program Files (x86)\Java\jdk1.7.0_80\bin\java.exe "-Xmx1024M" "-XX:-UseGCOverheadLimit" "-Djava.ext.dirs=D:\android-sdk-win\platform-tools" "-jar" "D:\android-sdk-win\build-tools\23.0.1\lib\dx.jar" "--dex" "--output=C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\classes.dex" "C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\classes" "C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\lib\titanium-verify.jar" "C:\ProgramData\Application Data\Titanium\modules\android\dk.napp.drawer\1.1.6\nappslide.jar" "C:\ProgramData\Application Data\Titanium\modules\android\ti.ga\2.2.0\tiga.jar" "C:\ProgramData\Application Data\Titanium\modules\android\net.iamyellow.tiws\1.0.0\tiws.jar" "C:\ProgramData\Application Data\Titanium\modules\android\ti.goosh\1.6.2\ti.goosh.jar" "C:\ProgramData\Application Data\Titanium\modules\android\ti.goosh\1.6.2\lib\google-play-services-gcm+analytics+maps.jar" "C:\ProgramData\Application Data\Titanium\modules\android\ti.goosh\1.6.2\lib\gson.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\kroll-v8.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-analytics.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\aps-analytics.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-android.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\jaxen-1.1.1.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\ti-commons-codec-1.3.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\kroll-common.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\titanium.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-app.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-ui.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\nineoldandroids-appc-2.4.0.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-filesystem.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-media.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-appcompat.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\android-support-v4.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\android-support-v7-appcompat.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-cardview.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\cardview-v7-23.0.1.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-locale.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-network.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-xml.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-geolocation.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-platform.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-calendar.jar" "C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-database.jar"
+[INFO]   Creating unsigned apk
+[DEBUG]  Processing C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\app.ap_
+[DEBUG]  Deflating AndroidManifest.xml
+[DEBUG]  Adding assets/Resources/KS_nav_ui.png
+[DEBUG]  Adding assets/Resources/KS_nav_views.png
+[DEBUG]  Adding assets/Resources/appicon.png
+[DEBUG]  Adding assets/Resources/images/dot.png
+[DEBUG]  Adding assets/Resources/images/funnel_left.png
+[DEBUG]  Adding assets/Resources/images/funnel_right.png
+[DEBUG]  Adding assets/Resources/images/google.png
+[DEBUG]  Adding assets/Resources/images/google_login.png
+[DEBUG]  Adding assets/Resources/images/hourglass.png
+[DEBUG]  Adding assets/Resources/images/ic_add.png
+[DEBUG]  Adding assets/Resources/images/ic_add_circle_outline.png
+[DEBUG]  Adding assets/Resources/images/ic_add_circle_outline_b.png
+[DEBUG]  Adding assets/Resources/images/ic_add_circle_outline_g.png
+[DEBUG]  Adding assets/Resources/images/ic_add_circle_outline_o.png
+[DEBUG]  Adding assets/Resources/images/ic_add_circle_outline_w.png
+[DEBUG]  Adding assets/Resources/images/ic_add_w.png
+[DEBUG]  Adding assets/Resources/images/ic_arrow_back.png
+[DEBUG]  Adding assets/Resources/images/ic_arrow_back_w.png
+[DEBUG]  Adding assets/Resources/images/ic_arrow_left.png
+[DEBUG]  Adding assets/Resources/images/ic_arrow_right.png
+[DEBUG]  Adding assets/Resources/images/ic_assignment_ind.png
+[DEBUG]  Adding assets/Resources/images/ic_assignment_ind_b.png
+[DEBUG]  Adding assets/Resources/images/ic_assignment_ind_o.png
+[DEBUG]  Adding assets/Resources/images/ic_assignment_ind_w.png
+[DEBUG]  Adding assets/Resources/images/ic_block.png
+[DEBUG]  Adding assets/Resources/images/ic_block_w.png
+[DEBUG]  Adding assets/Resources/images/ic_call.png
+[DEBUG]  Adding assets/Resources/images/ic_call_b.png
+[DEBUG]  Adding assets/Resources/images/ic_call_g.png
+[DEBUG]  Adding assets/Resources/images/ic_call_w.png
+[DEBUG]  Adding assets/Resources/images/ic_chat.png
+[DEBUG]  Adding assets/Resources/images/ic_chat_b.png
+[DEBUG]  Adding assets/Resources/images/ic_chat_g.png
+[DEBUG]  Adding assets/Resources/images/ic_chat_w.png
+[DEBUG]  Adding assets/Resources/images/ic_check.png
+[DEBUG]  Adding assets/Resources/images/ic_check_w.png
+[DEBUG]  Adding assets/Resources/images/ic_close.png
+[DEBUG]  Adding assets/Resources/images/ic_close_w.png
+[DEBUG]  Adding assets/Resources/images/ic_correct.png
+[DEBUG]  Adding assets/Resources/images/ic_correct_b.png
+[DEBUG]  Adding assets/Resources/images/ic_correct_g.png
+[DEBUG]  Adding assets/Resources/images/ic_correct_o.png
+[DEBUG]  Adding assets/Resources/images/ic_correct_w.png
+[DEBUG]  Adding assets/Resources/images/ic_cross_r.png
+[DEBUG]  Adding assets/Resources/images/ic_delete.png
+[DEBUG]  Adding assets/Resources/images/ic_delete_r.png
+[DEBUG]  Adding assets/Resources/images/ic_delete_w.png
+[DEBUG]  Adding assets/Resources/images/ic_eject.png
+[DEBUG]  Adding assets/Resources/images/ic_eject_r.png
+[DEBUG]  Adding assets/Resources/images/ic_eject_w.png
+[DEBUG]  Adding assets/Resources/images/ic_expand_less.png
+[DEBUG]  Adding assets/Resources/images/ic_expand_less_w.png
+[DEBUG]  Adding assets/Resources/images/ic_expand_more.png
+[DEBUG]  Adding assets/Resources/images/ic_expand_more_w.png
+[DEBUG]  Adding assets/Resources/images/ic_flag.png
+[DEBUG]  Adding assets/Resources/images/ic_flag_w.png
+[DEBUG]  Adding assets/Resources/images/ic_forum.png
+[DEBUG]  Adding assets/Resources/images/ic_forum_w.png
+[DEBUG]  Adding assets/Resources/images/ic_group.png
+[DEBUG]  Adding assets/Resources/images/ic_group_add_b.png
+[DEBUG]  Adding assets/Resources/images/ic_group_add_w.png
+[DEBUG]  Adding assets/Resources/images/ic_group_o.png
+[DEBUG]  Adding assets/Resources/images/ic_group_w.png
+[DEBUG]  Adding assets/Resources/images/ic_home.png
+[DEBUG]  Adding assets/Resources/images/ic_home_w.png
+[DEBUG]  Adding assets/Resources/images/ic_insert_drive_file.png
+[DEBUG]  Adding assets/Resources/images/ic_insert_drive_file_w.png
+[DEBUG]  Adding assets/Resources/images/ic_keyboard.png
+[DEBUG]  Adding assets/Resources/images/ic_keyboard_hide.png
+[DEBUG]  Adding assets/Resources/images/ic_keyboard_hide_b.png
+[DEBUG]  Adding assets/Resources/images/ic_keyboard_hide_o.png
+[DEBUG]  Adding assets/Resources/images/ic_keyboard_return.png
+[DEBUG]  Adding assets/Resources/images/ic_keyboard_return_g.png
+[DEBUG]  Adding assets/Resources/images/ic_keyboard_return_w.png
+[DEBUG]  Adding assets/Resources/images/ic_menu.png
+[DEBUG]  Adding assets/Resources/images/ic_menu_w.png
+[DEBUG]  Adding assets/Resources/images/ic_mode_edit.png
+[DEBUG]  Adding assets/Resources/images/ic_mode_edit_w.png
+[DEBUG]  Adding assets/Resources/images/ic_more_vert.png
+[DEBUG]  Adding assets/Resources/images/ic_more_vert_w.png
+[DEBUG]  Adding assets/Resources/images/ic_navigate_before.png
+[DEBUG]  Adding assets/Resources/images/ic_navigate_before_b.png
+[DEBUG]  Adding assets/Resources/images/ic_navigate_before_o.png
+[DEBUG]  Adding assets/Resources/images/ic_navigate_before_w.png
+[DEBUG]  Adding assets/Resources/images/ic_navigate_next.png
+[DEBUG]  Adding assets/Resources/images/ic_navigate_next_b.png
+[DEBUG]  Adding assets/Resources/images/ic_navigate_next_o.png
+[DEBUG]  Adding assets/Resources/images/ic_navigate_next_w.png
+[DEBUG]  Adding assets/Resources/images/ic_person.png
+[DEBUG]  Adding assets/Resources/images/ic_person_add.png
+[DEBUG]  Adding assets/Resources/images/ic_person_add_w.png
+[DEBUG]  Adding assets/Resources/images/ic_person_o.png
+[DEBUG]  Adding assets/Resources/images/ic_person_w.png
+[DEBUG]  Adding assets/Resources/images/ic_phone_iphone.png
+[DEBUG]  Adding assets/Resources/images/ic_place.png
+[DEBUG]  Adding assets/Resources/images/ic_place_w.png
+[DEBUG]  Adding assets/Resources/images/ic_school.png
+[DEBUG]  Adding assets/Resources/images/ic_school_w.png
+[DEBUG]  Adding assets/Resources/images/ic_send.png
+[DEBUG]  Adding assets/Resources/images/ic_send_b.png
+[DEBUG]  Adding assets/Resources/images/ic_send_g.png
+[DEBUG]  Adding assets/Resources/images/ic_send_o.png
+[DEBUG]  Adding assets/Resources/images/ic_settings.png
+[DEBUG]  Adding assets/Resources/images/ic_settings_w.png
+[DEBUG]  Adding assets/Resources/images/ic_sync.png
+[DEBUG]  Adding assets/Resources/images/ic_sync_g.png
+[DEBUG]  Adding assets/Resources/images/ic_sync_problem.png
+[DEBUG]  Adding assets/Resources/images/ic_sync_problem_w.png
+[DEBUG]  Adding assets/Resources/images/ic_sync_w.png
+[DEBUG]  Adding assets/Resources/images/ic_vpn_key.png
+[DEBUG]  Adding assets/Resources/images/ic_vpn_key_w.png
+[DEBUG]  Adding assets/Resources/images/ic_warning.png
+[DEBUG]  Adding assets/Resources/images/ic_warning_w.png
+[DEBUG]  Adding assets/Resources/images/ic_whatshot.png
+[DEBUG]  Adding assets/Resources/images/ic_whatshot_w.png
+[DEBUG]  Adding assets/Resources/images/ic_work.png
+[DEBUG]  Adding assets/Resources/images/ic_work_w.png
+[DEBUG]  Adding assets/Resources/images/ico_notebook_p.png
+[DEBUG]  Adding assets/Resources/images/ico_tv_p.png
+[DEBUG]  Adding assets/Resources/images/logo_login.png
+[DEBUG]  Adding assets/Resources/images/ubqti.png
+[DEBUG]  Adding assets/Resources/iphone/Default-568h@2x.png
+[DEBUG]  Adding assets/Resources/iphone/Default-667h@2x.png
+[DEBUG]  Adding assets/Resources/iphone/Default-Landscape-736h@3x.png
+[DEBUG]  Adding assets/Resources/iphone/Default-Landscape.png
+[DEBUG]  Adding assets/Resources/iphone/Default-Landscape@2x.png
+[DEBUG]  Adding assets/Resources/iphone/Default-Portrait-736h@3x.png
+[DEBUG]  Adding assets/Resources/iphone/Default-Portrait.png
+[DEBUG]  Adding assets/Resources/iphone/Default-Portrait@2x.png
+[DEBUG]  Adding assets/Resources/iphone/Default.png
+[DEBUG]  Adding assets/Resources/iphone/Default@2x.png
+[DEBUG]  Adding assets/Resources/iphone/images/assets/iphone.png
+[DEBUG]  Adding assets/Resources/iphone/images/dot.png
+[DEBUG]  Adding assets/Resources/iphone/images/funnel_left.png
+[DEBUG]  Adding assets/Resources/iphone/images/funnel_right.png
+[DEBUG]  Adding assets/Resources/iphone/images/google.png
+[DEBUG]  Adding assets/Resources/iphone/images/google_login.png
+[DEBUG]  Adding assets/Resources/iphone/images/hourglass.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_add.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_add_circle_outline.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_add_circle_outline_b.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_add_circle_outline_g.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_add_circle_outline_o.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_add_circle_outline_w.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_add_w.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_arrow_back.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_arrow_back_w.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_arrow_left.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_arrow_right.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_assignment_ind.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_assignment_ind_b.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_assignment_ind_o.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_assignment_ind_w.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_block.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_block_w.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_call.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_call_b.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_call_g.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_call_w.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_chat.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_chat_b.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_chat_g.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_chat_w.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_check.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_check_w.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_close.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_close_w.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_correct.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_correct_b.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_correct_g.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_correct_o.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_correct_w.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_cross_r.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_delete.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_delete_r.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_delete_w.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_eject.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_eject_r.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_eject_w.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_expand_less.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_expand_less_w.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_expand_more.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_expand_more_w.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_flag.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_flag_w.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_forum.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_forum_w.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_group.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_group_add_b.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_group_add_w.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_group_o.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_group_w.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_home.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_home_w.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_insert_drive_file.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_insert_drive_file_w.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_keyboard.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_keyboard_hide.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_keyboard_hide_b.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_keyboard_hide_o.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_keyboard_return.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_keyboard_return_g.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_keyboard_return_w.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_menu.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_menu_w.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_mode_edit.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_mode_edit_w.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_more_vert.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_more_vert_w.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_navigate_before.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_navigate_before_b.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_navigate_before_o.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_navigate_before_w.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_navigate_next.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_navigate_next_b.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_navigate_next_o.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_navigate_next_w.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_person.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_person_add.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_person_add_w.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_person_o.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_person_w.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_phone_iphone.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_place.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_place_w.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_school.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_school_w.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_send.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_send_b.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_send_g.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_send_o.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_settings.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_settings_w.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_sync.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_sync_g.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_sync_problem.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_sync_problem_w.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_sync_w.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_vpn_key.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_vpn_key_w.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_warning.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_warning_w.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_whatshot.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_whatshot_w.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_work.png
+[DEBUG]  Adding assets/Resources/iphone/images/ic_work_w.png
+[DEBUG]  Adding assets/Resources/iphone/images/ico_notebook_p.png
+[DEBUG]  Adding assets/Resources/iphone/images/ico_tv_p.png
+[DEBUG]  Adding assets/Resources/iphone/images/logo_login.png
+[DEBUG]  Adding assets/Resources/iphone/images/ubqti.png
+[DEBUG]  Adding assets/Resources/sounds/alert1.mp3
+[DEBUG]  Adding assets/Resources/sounds/alert2.mp3
+[DEBUG]  Deflating assets/app.json
+[DEBUG]  Deflating assets/index.json
+[DEBUG]  Deflating res/anim/abc_fade_in.xml
+[DEBUG]  Deflating res/anim/abc_fade_out.xml
+[DEBUG]  Deflating res/anim/abc_grow_fade_in_from_bottom.xml
+[DEBUG]  Deflating res/anim/abc_popup_enter.xml
+[DEBUG]  Deflating res/anim/abc_popup_exit.xml
+[DEBUG]  Deflating res/anim/abc_shrink_fade_out_from_bottom.xml
+[DEBUG]  Deflating res/anim/abc_slide_in_bottom.xml
+[DEBUG]  Deflating res/anim/abc_slide_in_top.xml
+[DEBUG]  Deflating res/anim/abc_slide_out_bottom.xml
+[DEBUG]  Deflating res/anim/abc_slide_out_top.xml
+[DEBUG]  Deflating res/color-v11/abc_background_cache_hint_selector_material_dark.xml
+[DEBUG]  Deflating res/color-v11/abc_background_cache_hint_selector_material_light.xml
+[DEBUG]  Deflating res/color-v23/abc_color_highlight_material.xml
+[DEBUG]  Deflating res/color/abc_background_cache_hint_selector_material_dark.xml
+[DEBUG]  Deflating res/color/abc_background_cache_hint_selector_material_light.xml
+[DEBUG]  Deflating res/color/abc_primary_text_disable_only_material_dark.xml
+[DEBUG]  Deflating res/color/abc_primary_text_disable_only_material_light.xml
+[DEBUG]  Deflating res/color/abc_primary_text_material_dark.xml
+[DEBUG]  Deflating res/color/abc_primary_text_material_light.xml
+[DEBUG]  Deflating res/color/abc_search_url_text.xml
+[DEBUG]  Deflating res/color/abc_secondary_text_material_dark.xml
+[DEBUG]  Deflating res/color/abc_secondary_text_material_light.xml
+[DEBUG]  Deflating res/color/switch_thumb_material_dark.xml
+[DEBUG]  Deflating res/color/switch_thumb_material_light.xml
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_clear_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_go_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_list_focused_holo.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-ldrtl-hdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-ldrtl-mdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-ldrtl-xhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-ldrtl-xxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-ldrtl-xxxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-long-land-hdpi-v4/background.png
+[DEBUG]  Adding res/drawable-long-land-ldpi-v4/background.png
+[DEBUG]  Adding res/drawable-long-port-hdpi-v4/background.png
+[DEBUG]  Adding res/drawable-long-port-ldpi-v4/background.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_clear_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_go_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_list_focused_holo.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-notlong-land-hdpi-v4/background.png
+[DEBUG]  Adding res/drawable-notlong-land-ldpi-v4/background.png
+[DEBUG]  Adding res/drawable-notlong-land-mdpi-v4/background.png
+[DEBUG]  Adding res/drawable-notlong-port-hdpi-v4/background.png
+[DEBUG]  Adding res/drawable-notlong-port-ldpi-v4/background.png
+[DEBUG]  Adding res/drawable-notlong-port-mdpi-v4/background.png
+[DEBUG]  Deflating res/drawable-v21/abc_action_bar_item_background_material.xml
+[DEBUG]  Deflating res/drawable-v21/abc_btn_colored_material.xml
+[DEBUG]  Deflating res/drawable-v23/abc_control_background_material.xml
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_clear_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_list_focused_holo.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_clear_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_list_focused_holo.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_clear_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+[DEBUG]  Deflating res/drawable/abc_btn_borderless_material.xml
+[DEBUG]  Deflating res/drawable/abc_btn_check_material.xml
+[DEBUG]  Deflating res/drawable/abc_btn_colored_material.xml
+[DEBUG]  Deflating res/drawable/abc_btn_default_mtrl_shape.xml
+[DEBUG]  Deflating res/drawable/abc_btn_radio_material.xml
+[DEBUG]  Deflating res/drawable/abc_cab_background_internal_bg.xml
+[DEBUG]  Deflating res/drawable/abc_cab_background_top_material.xml
+[DEBUG]  Deflating res/drawable/abc_dialog_material_background_dark.xml
+[DEBUG]  Deflating res/drawable/abc_dialog_material_background_light.xml
+[DEBUG]  Deflating res/drawable/abc_edit_text_material.xml
+[DEBUG]  Deflating res/drawable/abc_item_background_holo_dark.xml
+[DEBUG]  Deflating res/drawable/abc_item_background_holo_light.xml
+[DEBUG]  Deflating res/drawable/abc_list_selector_background_transition_holo_dark.xml
+[DEBUG]  Deflating res/drawable/abc_list_selector_background_transition_holo_light.xml
+[DEBUG]  Deflating res/drawable/abc_list_selector_holo_dark.xml
+[DEBUG]  Deflating res/drawable/abc_list_selector_holo_light.xml
+[DEBUG]  Deflating res/drawable/abc_ratingbar_full_material.xml
+[DEBUG]  Deflating res/drawable/abc_spinner_textfield_background_material.xml
+[DEBUG]  Deflating res/drawable/abc_switch_thumb_material.xml
+[DEBUG]  Deflating res/drawable/abc_tab_indicator_material.xml
+[DEBUG]  Deflating res/drawable/abc_text_cursor_material.xml
+[DEBUG]  Deflating res/drawable/abc_textfield_search_material.xml
+[DEBUG]  Adding res/drawable/appicon.png
+[DEBUG]  Adding res/drawable/background.png
+[DEBUG]  Adding res/drawable/btn_check_buttonless_on_64.png
+[DEBUG]  Adding res/drawable/btn_more_64.png
+[DEBUG]  Adding res/drawable/disclosure_64.png
+[DEBUG]  Deflating res/layout-v17/abc_alert_dialog_material.xml
+[DEBUG]  Deflating res/layout-v17/abc_dialog_title_material.xml
+[DEBUG]  Deflating res/layout-v17/abc_search_view.xml
+[DEBUG]  Deflating res/layout-v17/notification_template_big_media.xml
+[DEBUG]  Deflating res/layout-v17/notification_template_big_media_narrow.xml
+[DEBUG]  Deflating res/layout-v17/notification_template_lines.xml
+[DEBUG]  Deflating res/layout-v17/notification_template_media.xml
+[DEBUG]  Deflating res/layout-v17/notification_template_part_chronometer.xml
+[DEBUG]  Deflating res/layout-v17/notification_template_part_time.xml
+[DEBUG]  Deflating res/layout-v21/abc_screen_toolbar.xml
+[DEBUG]  Deflating res/layout-v21/titanium_ui_date_picker_spinner.xml
+[DEBUG]  Deflating res/layout-v21/titanium_ui_time_picker_spinner.xml
+[DEBUG]  Deflating res/layout/abc_action_bar_title_item.xml
+[DEBUG]  Deflating res/layout/abc_action_bar_up_container.xml
+[DEBUG]  Deflating res/layout/abc_action_bar_view_list_nav_layout.xml
+[DEBUG]  Deflating res/layout/abc_action_menu_item_layout.xml
+[DEBUG]  Deflating res/layout/abc_action_menu_layout.xml
+[DEBUG]  Deflating res/layout/abc_action_mode_bar.xml
+[DEBUG]  Deflating res/layout/abc_action_mode_close_item_material.xml
+[DEBUG]  Deflating res/layout/abc_activity_chooser_view.xml
+[DEBUG]  Deflating res/layout/abc_activity_chooser_view_list_item.xml
+[DEBUG]  Deflating res/layout/abc_alert_dialog_material.xml
+[DEBUG]  Deflating res/layout/abc_dialog_title_material.xml
+[DEBUG]  Deflating res/layout/abc_expanded_menu_layout.xml
+[DEBUG]  Deflating res/layout/abc_list_menu_item_checkbox.xml
+[DEBUG]  Deflating res/layout/abc_list_menu_item_icon.xml
+[DEBUG]  Deflating res/layout/abc_list_menu_item_layout.xml
+[DEBUG]  Deflating res/layout/abc_list_menu_item_radio.xml
+[DEBUG]  Deflating res/layout/abc_popup_menu_item_layout.xml
+[DEBUG]  Deflating res/layout/abc_screen_content_include.xml
+[DEBUG]  Deflating res/layout/abc_screen_simple.xml
+[DEBUG]  Deflating res/layout/abc_screen_simple_overlay_action_mode.xml
+[DEBUG]  Deflating res/layout/abc_screen_toolbar.xml
+[DEBUG]  Deflating res/layout/abc_search_dropdown_item_icons_2line.xml
+[DEBUG]  Deflating res/layout/abc_search_view.xml
+[DEBUG]  Deflating res/layout/abc_select_dialog_material.xml
+[DEBUG]  Deflating res/layout/notification_media_action.xml
+[DEBUG]  Deflating res/layout/notification_media_cancel_action.xml
+[DEBUG]  Deflating res/layout/notification_template_big_media.xml
+[DEBUG]  Deflating res/layout/notification_template_big_media_narrow.xml
+[DEBUG]  Deflating res/layout/notification_template_lines.xml
+[DEBUG]  Deflating res/layout/notification_template_media.xml
+[DEBUG]  Deflating res/layout/notification_template_part_chronometer.xml
+[DEBUG]  Deflating res/layout/notification_template_part_time.xml
+[DEBUG]  Deflating res/layout/select_dialog_item_material.xml
+[DEBUG]  Deflating res/layout/select_dialog_multichoice_material.xml
+[DEBUG]  Deflating res/layout/select_dialog_singlechoice_material.xml
+[DEBUG]  Deflating res/layout/support_simple_spinner_dropdown_item.xml
+[DEBUG]  Deflating res/layout/titanium_tabgroup.xml
+[DEBUG]  Deflating res/layout/titanium_ui_checkbox.xml
+[DEBUG]  Deflating res/layout/titanium_ui_date_picker_spinner.xml
+[DEBUG]  Deflating res/layout/titanium_ui_edittext.xml
+[DEBUG]  Deflating res/layout/titanium_ui_list_header_or_footer.xml
+[DEBUG]  Deflating res/layout/titanium_ui_list_item.xml
+[DEBUG]  Deflating res/layout/titanium_ui_spinner.xml
+[DEBUG]  Deflating res/layout/titanium_ui_switchcompat.xml
+[DEBUG]  Deflating res/layout/titanium_ui_time_picker_spinner.xml
+[DEBUG]  Deflating resources.arsc
+[DEBUG]  Processing C:\ProgramData\Application Data\Titanium\modules\android\dk.napp.drawer\1.1.6\nappslide.jar
+[DEBUG]  Processing C:\ProgramData\Application Data\Titanium\modules\android\ti.ga\2.2.0\tiga.jar
+[DEBUG]  Processing C:\ProgramData\Application Data\Titanium\modules\android\net.iamyellow.tiws\1.0.0\tiws.jar
+[DEBUG]  Processing C:\ProgramData\Application Data\Titanium\modules\android\ti.goosh\1.6.2\ti.goosh.jar
+[DEBUG]  Processing C:\ProgramData\Application Data\Titanium\modules\android\ti.goosh\1.6.2\lib\google-play-services-gcm+analytics+maps.jar
+[DEBUG]  Processing C:\ProgramData\Application Data\Titanium\modules\android\ti.goosh\1.6.2\lib\gson.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\kroll-v8.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-analytics.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\aps-analytics.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-android.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\jaxen-1.1.1.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\ti-commons-codec-1.3.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\kroll-common.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\titanium.jar
+[DEBUG]  Deflating org/appcelerator/titanium/build.properties
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/background.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_check_buttonless_on.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_100.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_18.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_48.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_64.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_more.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_more_100.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_more_18.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_more_48.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_more_64.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_picker_normal.9.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_picker_pressed.9.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_picker_selected.9.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/default_icon.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/photoDefault.png
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-app.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-ui.jar
+[DEBUG]  Deflating ti/modules/titanium/ui/widget/webview/binding.js
+[DEBUG]  Deflating ti/modules/titanium/ui/widget/webview/binding.min.js
+[DEBUG]  Deflating ti/modules/titanium/ui/widget/webview/json2.js
+[DEBUG]  Deflating ti/modules/titanium/ui/widget/webview/polling.js
+[DEBUG]  Deflating ti/modules/titanium/ui/widget/webview/polling.min.js
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\nineoldandroids-appc-2.4.0.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-filesystem.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-media.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-appcompat.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\android-support-v4.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\android-support-v7-appcompat.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-cardview.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\cardview-v7-23.0.1.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-locale.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-network.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-xml.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-geolocation.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-platform.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-calendar.jar
+[DEBUG]  Processing C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\modules\titanium-database.jar
+[DEBUG]  Adding classes.dex
+[INFO]   Processing C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\src
+[DEBUG]  Adding lib/armeabi/libkroll-v8.so
+[DEBUG]  Adding lib/armeabi/libstlport_shared.so
+[DEBUG]  Adding lib/armeabi/libtiverify.so
+[DEBUG]  Adding lib/armeabi-v7a/libkroll-v8.so
+[DEBUG]  Adding lib/armeabi-v7a/libstlport_shared.so
+[DEBUG]  Adding lib/armeabi-v7a/libtiverify.so
+[DEBUG]  Adding lib/x86/libkroll-v8.so
+[DEBUG]  Adding lib/x86/libstlport_shared.so
+[DEBUG]  Adding lib/x86/libtiverify.so
+[DEBUG]  Adding lib/armeabi/libdk.napp.drawer.so
+[DEBUG]  Adding lib/armeabi-v7a/libdk.napp.drawer.so
+[DEBUG]  Adding lib/x86/libdk.napp.drawer.so
+[DEBUG]  Adding lib/armeabi/libti.ga.so
+[DEBUG]  Adding lib/armeabi-v7a/libti.ga.so
+[DEBUG]  Adding lib/x86/libti.ga.so
+[DEBUG]  Adding lib/armeabi/libnet.iamyellow.tiws.so
+[DEBUG]  Adding lib/armeabi-v7a/libnet.iamyellow.tiws.so
+[DEBUG]  Adding lib/x86/libnet.iamyellow.tiws.so
+[DEBUG]  Adding lib/armeabi/libti.goosh.so
+[DEBUG]  Adding lib/armeabi-v7a/libti.goosh.so
+[DEBUG]  Adding lib/x86/libti.goosh.so
+[INFO]   Writing unsigned apk: C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\app-unsigned.apk
+[INFO]   Using MD5withRSA signature algorithm
+[INFO]   Signing apk: C:\Program Files (x86)\Java\jdk1.7.0_80\bin\jarsigner.exe "-sigalg" "MD5withRSA" "-digestalg" "SHA1" "-keystore" "C:\ProgramData\Titanium\mobilesdk\win32\5.2.2.GA\android\dev_keystore" "-storepass" "*******" "-signedjar" "C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\UBQTi DummyLeq.apk" "C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\app-unsigned.apk" "tidev"
+[INFO]   Aligning zip file: D:\android-sdk-win\build-tools\23.0.1\zipalign.exe "-v" "4" "C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\UBQTi DummyLeq.apk" "C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\UBQTi DummyLeq.apkz"
+[INFO]   Writing build manifest: C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\build-manifest.json
+[INFO]   Making sure the adb server is running
+[INFO]   Installing apk: C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\UBQTi DummyLeq.apk
+[INFO]   Installing app on device: F3213
+[TRACE]  Checking if package manager service is started
+[TRACE]  Package manager has started
+[TRACE]  Executing: D:\android-sdk-win\platform-tools\adb.exe -s WUJ01MPMC4 install -r C:\Users\Siuk\Documents\Appcelerator_Studio_Workspace\dummyleq\build\android\bin\UBQTi DummyLeq.apk
+[INFO]   App successfully installed
+[INFO]   Starting app: com.ubqti.dummyleq/.UbqtiDummyleqActivity
+[DEBUG]  Trying to start the app...
+[INFO]   Application pid: 17547
+[INFO]   Project built successfully in 1m 25s 101ms
